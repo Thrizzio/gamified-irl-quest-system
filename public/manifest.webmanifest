@@ -1,0 +1,11 @@
+{
+  "name": "StrideQuest · Find your outside",
+  "short_name": "StrideQuest",
+  "description": "A local-first outdoor scavenger hunt for curious walkers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#183326",
+  "orientation": "portrait-primary",
+  "icons": [{ "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
